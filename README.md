@@ -1,16 +1,7 @@
-# flutter_platzi_course
+#  TravelApp ✈
 
-A new Flutter project.
+![](https://github.com/Unstoppable7/flutter_platzi_course/blob/main/travelApp.gif)
 
-## Getting Started
+This app is under development.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is made with Flutter by following a course given by the Platzi platform.
